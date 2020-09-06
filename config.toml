@@ -1,4 +1,4 @@
-baseURL = "https://nmalayev.github.io/personal-site/"
+baseURL = "https://nison.malayev.dev"
 title   = "Nison Malayev"
 languageCode = "en-us"
 theme = "hello-friend-ng"
