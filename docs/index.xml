@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nison Malayev</title>
+    <link>https://nmalayev.github.io/personal-site/</link>
+    <description>Recent content on Nison Malayev</description>
+    <generator>Gotham -- gothamhq.com</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;License Pending&lt;/a&gt;</copyright>
+    
+	<atom:link href="https://nmalayev.github.io/personal-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://nmalayev.github.io/personal-site/about/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nmalayev.github.io/personal-site/about/</guid>
+      <description>Hello, about page!</description>
+    </item>
+    
+  </channel>
+</rss>
